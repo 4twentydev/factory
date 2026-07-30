@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "engines": {
-    "node": ">=22.13.0"
+    "node": ">=26.5.1"
   },
   "scripts": {
     "install:ci": "bash scripts/install-ci.sh",
